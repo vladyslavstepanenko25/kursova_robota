@@ -1,0 +1,16 @@
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\bin\Debug\net8.0-windows\MusicDirectory.exe
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\bin\Debug\net8.0-windows\MusicDirectory.deps.json
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\bin\Debug\net8.0-windows\MusicDirectory.runtimeconfig.json
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\bin\Debug\net8.0-windows\MusicDirectory.dll
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\bin\Debug\net8.0-windows\MusicDirectory.pdb
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\obj\Debug\net8.0-windows\MusicDirectory.Form1.resources
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\obj\Debug\net8.0-windows\MusicDirectory.csproj.GenerateResource.cache
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\obj\Debug\net8.0-windows\MusicDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\obj\Debug\net8.0-windows\MusicDirectory.AssemblyInfoInputs.cache
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\obj\Debug\net8.0-windows\MusicDirectory.AssemblyInfo.cs
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\obj\Debug\net8.0-windows\MusicDirectory.csproj.CoreCompileInputs.cache
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\obj\Debug\net8.0-windows\MusicDirectory.dll
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\obj\Debug\net8.0-windows\refint\MusicDirectory.dll
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\obj\Debug\net8.0-windows\MusicDirectory.pdb
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\obj\Debug\net8.0-windows\MusicDirectory.genruntimeconfig.cache
+C:\Projects\Курсова\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В\obj\Debug\net8.0-windows\ref\MusicDirectory.dll

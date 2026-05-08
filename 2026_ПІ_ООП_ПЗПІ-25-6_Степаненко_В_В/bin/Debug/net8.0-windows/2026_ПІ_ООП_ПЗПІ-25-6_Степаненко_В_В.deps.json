@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В/1.0.0": {
+        "runtime": {
+          "2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2026_ПІ_ООП_ПЗПІ-25-6_Степаненко_В_В/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
