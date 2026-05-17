@@ -173,7 +173,7 @@
             // 
             // btnDeleteArtist
             // 
-            btnDeleteArtist.Location = new Point(22, 267);
+            btnDeleteArtist.Location = new Point(22, 302);
             btnDeleteArtist.Name = "btnDeleteArtist";
             btnDeleteArtist.Size = new Size(94, 29);
             btnDeleteArtist.TabIndex = 3;
@@ -183,7 +183,7 @@
             // 
             // btnEditArtist
             // 
-            btnEditArtist.Location = new Point(22, 302);
+            btnEditArtist.Location = new Point(22, 267);
             btnEditArtist.Name = "btnEditArtist";
             btnEditArtist.Size = new Size(94, 29);
             btnEditArtist.TabIndex = 2;
