@@ -469,7 +469,7 @@
             ClientSize = new Size(878, 537);
             Controls.Add(tabControl1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Довідник меломана";
             Load += Form1_Load;
             tabControl1.ResumeLayout(false);
             tabPage1.ResumeLayout(false);
